@@ -1,6 +1,6 @@
 {
   "presets": [
-    ["@babel/env", {"useBuiltIns": "usage", "corejs": {"version": 3}}]
+    ["@babel/enj", {"useBuiltIns": "usage", "corejs": {"version": 3}}]
   ],
   "env": {
     "production": {
